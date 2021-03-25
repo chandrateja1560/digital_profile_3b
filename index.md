@@ -1,17 +1,17 @@
-Johnny Coder
+CHANDRA TEJA CHEMITI
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+1 MyAddress                        chandratejachemiti@gmail.com
+MyTown 1000                          Andhra Pradesh
+MyCountry                           India
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2014 
+:   **Btech, Information Technology**; Rvr & Jc college of eng University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
